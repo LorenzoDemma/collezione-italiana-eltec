@@ -6,7 +6,7 @@ Sono perciò presenti romanzi italiani, pubblicati tra il 1840 e il 1920,una lun
 
 Tutti i romanzi presenti sono stati codificati in XML/TEI seguendo le linee guida di codifica elaborate a livello europeo. Per maggiori informazioni sulla codifica consulta direttamente il sito https://distantreading.github.io/Schema/eltec-1.html
 
-Il link al sito è il seguente: https://lorenzodemma.github.io/collezione-italiana-eltec/
+Il link al sito è il seguente: https://lorenzodemma.github.io/collezioneitaliana-eltec/
 
 Lorenzo Demma 
 Corso di Digital Humanities e Patrimonio Culturale - prof.ssa Francesca Tomasi 
