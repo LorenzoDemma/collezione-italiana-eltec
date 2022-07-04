@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+>
+   
+   <rdf:Description rdf:about="http://viaf.org/viaf/29540305">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>    
+      <foaf:name>Salgari, Emilio</foaf:name>
+      
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://viaf.org/viaf/29540305">
+      <rdf:type rdf:resource="http://purl.org/dc/elements/1.1/creator"/>
+      
+      
+      
+   </rdf:Description>
+   <rdf:Description rdf:about="https://viaf.org/viaf/1909165139024800560001/">
+      <dcterms:identifier rdf:ID="1909165139024800560001"></dcterms:identifier>
+      <dc:title>Alla conquista di un impero</dc:title>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://viaf.org/viaf/115146937744313830636">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <foaf:name>Donath, Anton</foaf:name>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://lccn.loc.gov/n2008047359">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <foaf:name>A. Donath Editore</foaf:name>
+   </rdf:Description>
+
+
+
+
+
+
+
+
+</rdf:RDF>
