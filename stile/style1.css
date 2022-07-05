@@ -227,3 +227,9 @@ text-align: ;
     margin: 7px;
     padding: 0;
 }
+
+.title-footer:hover
+{   
+
+  color: whitesmoke;
+  }
